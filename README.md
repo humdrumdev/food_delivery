@@ -1,7 +1,5 @@
 # Food Delivery Application in Flutter
 
-TODO: Trying to implement as firebase database
-
 ## Screenshot
 
 
